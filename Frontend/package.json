@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "react-router": "^6.22.3",
+    "react-router-dom": "^6.22.3"
+  },
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemanth",
+  "license": "ISC",
+  "description": ""
+}
